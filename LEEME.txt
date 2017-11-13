@@ -13,3 +13,6 @@ git branch
 git checkout <branchName>
 git rm
 git mv
+git reset --hard
+git checkout <filename>
+git reset HEAD^
