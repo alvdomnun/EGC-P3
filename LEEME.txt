@@ -1,4 +1,4 @@
-Comanditos de git
+﻿Comanditos de git
 
 git init
 git add
@@ -11,8 +11,6 @@ git show <commit>
 git checkout -b <branchName>
 git branch
 git checkout <branchName>
-git rm
-git mv
 git reset --hard
 git checkout <filename>
 git reset HEAD^
