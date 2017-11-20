@@ -14,4 +14,7 @@ git checkout <branchName>
 git reset --hard
 git checkout <filename>
 git reset HEAD^
-git mv git rm
+git mv
+git rm
+git log --graph --oneline
+
