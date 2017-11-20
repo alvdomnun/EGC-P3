@@ -14,3 +14,4 @@ git checkout <branchName>
 git reset --hard
 git checkout <filename>
 git reset HEAD^
+git mv git rm
